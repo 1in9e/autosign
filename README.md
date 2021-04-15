@@ -11,5 +11,4 @@
 30 8 * * * python /root/tools/sign.py >> /root/tools/logs_sign.log 2>&1
 ```
 
-eg.
-[!example.png]
+![example.png](example.png)
